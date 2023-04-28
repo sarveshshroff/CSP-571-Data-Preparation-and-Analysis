@@ -6,23 +6,23 @@ Data Set: https://www.kaggle.com/code/hussainbahieldeen/exploratory-data-analysi
 Add the dataset in folder named data.
 
 Library used:
-rpart.plot
-corrplot
-"DMwR"
-treemap
-highcharter
-tidyr
-dplyr
-tidyverse
-sqldf
-ggplot2
-readr
-gmodels
-tm
-SnowballC
-wordcloud
-RColorBrewer
-rpart
-randomForest
-magrittr
+rpart.plot,
+corrplot,
+"DMwR",
+treemap,
+highcharter,
+tidyr,
+dplyr,
+tidyverse,
+sqldf,
+ggplot2,
+readr,
+gmodels,
+tm,
+SnowballC,
+wordcloud,
+RColorBrewer,
+rpart,
+randomForest,
+magrittr,
 dplyr
